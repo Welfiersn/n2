@@ -383,7 +383,7 @@ body {
 }
 
 .private__img {
-  background-image: url("../img/block1/01.jpg");
+  background-image: url("img/block1/01.jpg");
 }
 
 .private-body {
@@ -485,16 +485,16 @@ body {
   height: auto;
 }
 .products-item__img_1 {
-  background-image: url("../img/block2/01.jpg");
+  background-image: url("img/block2/01.jpg");
 }
 .products-item__img_2 {
-  background-image: url("../img/block2/02.jpg");
+  background-image: url("img/block2/02.jpg");
 }
 .products-item__img_3 {
-  background-image: url("../img/block2/03.jpg");
+  background-image: url("img/block2/03.jpg");
 }
 .products-item__img_4 {
-  background-image: url("../img/block2/04.jpg");
+  background-image: url("img/block2/04.jpg");
 }
 @media (max-width: 767.98px) {
   .products-item__img {
@@ -608,7 +608,7 @@ body {
 }
 
 .why-top__img {
-  background-image: url("../img/block3/01.jpg");
+  background-image: url("img/block3/01.jpg");
   height: 100%;
 }
 
@@ -668,7 +668,7 @@ body {
 }
 
 .why-body-item__icon {
-  background: url("../img/block3/icon.png") center no-repeat;
+  background: url("img/block3/icon.png") center no-repeat;
   -webkit-box-flex: 0;
       -ms-flex: 0 0 100px;
           flex: 0 0 100px;
@@ -833,17 +833,17 @@ body {
   line-height: 27px;
 }
 .contacts-body__item--address {
-  background: url("../img/contact/icons/map.png") left 5px no-repeat;
+  background: url("img/contact/icons/map.png") left 5px no-repeat;
 }
 .contacts-body__item--tel {
-  background: url("../img/contact/icons/phone.png") left no-repeat;
+  background: url("img/contact/icons/phone.png") left no-repeat;
 }
 .contacts-body__item--tel:hover {
   font-weight: bold;
 }
 .contacts-body__item--email {
   padding-left: 36px;
-  background: url("../img/contact/icons/email.png") left 5px no-repeat;
+  background: url("img/contact/icons/email.png") left 5px no-repeat;
 }
 .contacts-body__item--email:hover {
   font-weight: bold;
@@ -896,7 +896,7 @@ body {
 }
 
 .contacts-content__map {
-  background-image: url("../img/contact/geolocation.png");
+  background-image: url("img/contact/geolocation.png");
 }
 @media (max-width: 767.98px) {
   .contacts-content__map {
